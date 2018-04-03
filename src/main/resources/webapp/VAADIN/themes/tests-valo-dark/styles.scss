@@ -1,0 +1,7 @@
+@import "variables";
+@import "../valo/valo";
+//@import "com.vaadin:vaadin-themes/valo/valo";
+
+.tests-valo-dark {
+   @include valo;
+}
